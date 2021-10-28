@@ -1,0 +1,30 @@
+#divUm {
+  background-color: yellow;
+  width: 1000px;
+  height: 300px;
+  margin: auto;
+}
+#divDois {
+  width: 800px;
+  height: 200px;
+  margin: auto;
+  background-color: whitesmoke;
+}
+#divUM p {
+  font-size: 25px;
+}
+#divDois p {
+  padding: 20px;
+  padding-top: 5px;
+  font-size: 25px;
+  margin: 30px;
+}
+.ultimoParagrafo.paragrafoFinal {
+  font-style: italic;
+}
+.divContainer > p {
+  background-color: green;
+}
+#codigoFonte {
+  font-size: 20px;
+}
